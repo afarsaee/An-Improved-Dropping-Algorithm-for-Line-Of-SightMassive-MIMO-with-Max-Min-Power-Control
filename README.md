@@ -1,4 +1,4 @@
-# An-Improved-Dropping-Algorithm-for-Line-Of-SightMassive-MIMO-with-Max-Min-Power-Control
+# An-Improved-Dropping-Algorithm-for-Line-Of-Sight-Massive-MIMO-with-Max-Min-Power-Control
 This package belongs to our IEEE Communication letter (see the link)
 https://ieeexplore.ieee.org/abstract/document/8695106
 
